@@ -551,13 +551,5 @@ function PageAdvancedSetting() {
     </VStack>
   );
 }
-// export {PageStart};
 
-// basic 
-// export let AllComponents = {
-//   PageStart: PageStart
-// }
-
-// 簡化 1
 export { PageStart, PageSetup, PageAdvancedSetting }
-
